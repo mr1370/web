@@ -1,0 +1,30 @@
+﻿body {
+    margin: 0;
+    direction: rtl;
+    font-family: mj;
+
+}
+
+#header {
+    border: 1px solid #ccc;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 20px 1px #ccc;
+    z-index:10;
+    
+}
+
+#content {
+    height: 2200px;
+    background: url('../images/01 bg.png') repeat-x;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px 1px #ccc;
+    /*margin-top:5px;*/
+}
+
+#footer {
+    height: 200px;
+    border: 1px solid #ccc;
+    height: 150px;
+    background: linear-gradient(#fff,rgba(240,240,240,1));
+    box-shadow: 0 0 10px 1px #ccc;
+}
